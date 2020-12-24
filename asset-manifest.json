@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hagar-portfolio/static/css/main.fe055078.chunk.css",
-    "main.js": "/hagar-portfolio/static/js/main.511a0720.chunk.js",
-    "main.js.map": "/hagar-portfolio/static/js/main.511a0720.chunk.js.map",
+    "main.css": "/hagar-portfolio/static/css/main.9ddf1cdb.chunk.css",
+    "main.js": "/hagar-portfolio/static/js/main.70762aa5.chunk.js",
+    "main.js.map": "/hagar-portfolio/static/js/main.70762aa5.chunk.js.map",
     "runtime-main.js": "/hagar-portfolio/static/js/runtime-main.62d09975.js",
     "runtime-main.js.map": "/hagar-portfolio/static/js/runtime-main.62d09975.js.map",
     "static/css/2.20b9ac78.chunk.css": "/hagar-portfolio/static/css/2.20b9ac78.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.e0efd404.chunk.js.map": "/hagar-portfolio/static/js/3.e0efd404.chunk.js.map",
     "index.html": "/hagar-portfolio/index.html",
     "static/css/2.20b9ac78.chunk.css.map": "/hagar-portfolio/static/css/2.20b9ac78.chunk.css.map",
-    "static/css/main.fe055078.chunk.css.map": "/hagar-portfolio/static/css/main.fe055078.chunk.css.map",
+    "static/css/main.9ddf1cdb.chunk.css.map": "/hagar-portfolio/static/css/main.9ddf1cdb.chunk.css.map",
     "static/js/2.a1360fe1.chunk.js.LICENSE.txt": "/hagar-portfolio/static/js/2.a1360fe1.chunk.js.LICENSE.txt",
     "static/media/1.9220b4ed.jpg": "/hagar-portfolio/static/media/1.9220b4ed.jpg",
     "static/media/1.e91d5ecc.jpg": "/hagar-portfolio/static/media/1.e91d5ecc.jpg",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.62d09975.js",
     "static/css/2.20b9ac78.chunk.css",
     "static/js/2.a1360fe1.chunk.js",
-    "static/css/main.fe055078.chunk.css",
-    "static/js/main.511a0720.chunk.js"
+    "static/css/main.9ddf1cdb.chunk.css",
+    "static/js/main.70762aa5.chunk.js"
   ]
 }
