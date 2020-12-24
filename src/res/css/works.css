@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/earlyaccess/opensanshebrewcondensed.css);
+
+.work_main_div{
+    flex:1;
+    display: flex;
+    margin-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
+
+
+}
+#left_side_work_container{
+     margin-left: 1rem;
+     margin-right: 5rem;
+
+ }
+.floating_text_on_image{
+    font-size: 1.5rem;
+    position: absolute;
+    display: flex;
+    font-family: 'Open Sans Hebrew Condensed', serif;
+    flex:1;
+    align-self: center;
+    color: #4b5556;
+
+
+}
+#right_side_work_container{
+    margin-right: 1rem;
+    margin-left: 5rem;
+}
+.work_img{
+    width:100%;
+    border-radius: 2rem;
+    opacity: var(--opacity);
+}
+
+#work_frame{
+    border-radius: 5vw;
+    display: flex;
+    flex-direction: row;
+}
+
+
+@media only screen and (max-width: 600px) {
+    #work_frame{
+        flex-direction: column;
+    }
+
+    #right_side_work_container{
+
+        width:90%;
+        margin:0;
+        align-self: center;
+
+
+    }
+    #left_side_work_container{
+
+        width:90%;
+        margin:0;
+        align-self: center;
+
+    }
+    .work_main_div{
+        margin-bottom: 1.2rem;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+
