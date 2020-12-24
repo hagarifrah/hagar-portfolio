@@ -1,5 +1,5 @@
 {
-  "name": "hagar-new-portfolio",
+  "name": "hagar-portfolio",
   "version": "0.1.0",
   "private": true,
   "homepage": "http://hagarifrah.github.io/hagar-portfolio",
@@ -28,7 +28,8 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
+    ],
+
   },
   "browserslist": {
     "production": [
