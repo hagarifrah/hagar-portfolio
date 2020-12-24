@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hagar-portfolio/static/css/main.9ddf1cdb.chunk.css",
-    "main.js": "/hagar-portfolio/static/js/main.70762aa5.chunk.js",
-    "main.js.map": "/hagar-portfolio/static/js/main.70762aa5.chunk.js.map",
-    "runtime-main.js": "/hagar-portfolio/static/js/runtime-main.62d09975.js",
-    "runtime-main.js.map": "/hagar-portfolio/static/js/runtime-main.62d09975.js.map",
+    "main.css": "/hagar-portfolio/static/css/main.86c29d3f.chunk.css",
+    "main.js": "/hagar-portfolio/static/js/main.13ce946f.chunk.js",
+    "main.js.map": "/hagar-portfolio/static/js/main.13ce946f.chunk.js.map",
+    "runtime-main.js": "/hagar-portfolio/static/js/runtime-main.75ce5557.js",
+    "runtime-main.js.map": "/hagar-portfolio/static/js/runtime-main.75ce5557.js.map",
     "static/css/2.20b9ac78.chunk.css": "/hagar-portfolio/static/css/2.20b9ac78.chunk.css",
     "static/js/2.a1360fe1.chunk.js": "/hagar-portfolio/static/js/2.a1360fe1.chunk.js",
     "static/js/2.a1360fe1.chunk.js.map": "/hagar-portfolio/static/js/2.a1360fe1.chunk.js.map",
-    "static/js/3.e0efd404.chunk.js": "/hagar-portfolio/static/js/3.e0efd404.chunk.js",
-    "static/js/3.e0efd404.chunk.js.map": "/hagar-portfolio/static/js/3.e0efd404.chunk.js.map",
+    "static/js/3.cedf7a98.chunk.js": "/hagar-portfolio/static/js/3.cedf7a98.chunk.js",
+    "static/js/3.cedf7a98.chunk.js.map": "/hagar-portfolio/static/js/3.cedf7a98.chunk.js.map",
     "index.html": "/hagar-portfolio/index.html",
     "static/css/2.20b9ac78.chunk.css.map": "/hagar-portfolio/static/css/2.20b9ac78.chunk.css.map",
-    "static/css/main.9ddf1cdb.chunk.css.map": "/hagar-portfolio/static/css/main.9ddf1cdb.chunk.css.map",
+    "static/css/main.86c29d3f.chunk.css.map": "/hagar-portfolio/static/css/main.86c29d3f.chunk.css.map",
     "static/js/2.a1360fe1.chunk.js.LICENSE.txt": "/hagar-portfolio/static/js/2.a1360fe1.chunk.js.LICENSE.txt",
     "static/media/1.9220b4ed.jpg": "/hagar-portfolio/static/media/1.9220b4ed.jpg",
     "static/media/1.e91d5ecc.jpg": "/hagar-portfolio/static/media/1.e91d5ecc.jpg",
@@ -42,10 +42,10 @@
     "static/media/logo9.6d63cc6a.jpg": "/hagar-portfolio/static/media/logo9.6d63cc6a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.62d09975.js",
+    "static/js/runtime-main.75ce5557.js",
     "static/css/2.20b9ac78.chunk.css",
     "static/js/2.a1360fe1.chunk.js",
-    "static/css/main.9ddf1cdb.chunk.css",
-    "static/js/main.70762aa5.chunk.js"
+    "static/css/main.86c29d3f.chunk.css",
+    "static/js/main.13ce946f.chunk.js"
   ]
 }
